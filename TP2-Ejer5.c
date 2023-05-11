@@ -14,7 +14,9 @@ analisis :
 */
 
 #include <stdio.h>
+//Me faltan 2 librerias creo? 
 
+//en el main me faltan los argumentos 
 int main() {
     float montoDepositado, montoIntereses, montoTotal;
     int cantidadAnios;
