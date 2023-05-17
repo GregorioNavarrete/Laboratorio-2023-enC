@@ -8,3 +8,8 @@
 /main/Ejemplo-TP2-Ejer22.c
 
 
+https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
+
+
+A continuación se muestra un [Link](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
+ "Título opcional del enlace").
