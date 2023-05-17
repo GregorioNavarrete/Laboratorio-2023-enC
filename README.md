@@ -5,6 +5,6 @@
 
 > Los ejemplos son de la plataforma de CUV 
 
-../Ejemplo-TP2-Ejer22.c
+/main/Ejemplo-TP2-Ejer22.c
 
 
