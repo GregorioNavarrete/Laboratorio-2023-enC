@@ -1,7 +1,7 @@
 # Laboratorio-2023-enC
 ## Para tener el codigo de la cursada 
 
-> Entorno de ejecucion On-Line es " replit.com "
+> Entorno de ejecucion On-Line es [ " replit.com " ](https://replit.com/)
 
 > Los ejemplos son de la plataforma de CUV 
 
