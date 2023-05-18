@@ -5,11 +5,6 @@
 
 > Los ejemplos son de la plataforma de CUV 
 
-/main/Ejemplo-TP2-Ejer22.c
 
-
-https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
-
-
-A continuación se muestra un [Link](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
- "Título opcional del enlace").
+Este repositorio responde al [Practico 2](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
+ "Pdf del practico2").
