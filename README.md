@@ -2,7 +2,7 @@
 ## Para tener el codigo de la cursada 
 
 > Entorno de ejecucion On-Line es [ " replit.com " ](https://replit.com/)
-> En la cursada se usa el  entorno de ejecucion  [ " Dev-C++ " ](https://www.bloodshed.net/)
+> En la cursada se usa el  entorno de ejecucion  [ " Dev-C++ " ]()
 
 
 > Los ejemplos son de la plataforma de CUV 
