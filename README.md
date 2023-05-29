@@ -2,6 +2,9 @@
 ## Para tener el codigo de la cursada 
 
 > Entorno de ejecucion On-Line es [ " replit.com " ](https://replit.com/)
+
+
+
 > En la cursada se usa el  entorno de ejecucion  [ " Dev-C++ " ](https://www.embarcadero.com/es/free-tools/dev-cpp)
 
 
