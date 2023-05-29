@@ -16,7 +16,7 @@
 * Este repositorio responde al [Practico 2](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
  "Pdf del practico2").
  
-  * ejer1
+  * [Ejercicio 13 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP1-Ejer13.c)
   * ejer2
 
 
