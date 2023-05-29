@@ -1,5 +1,5 @@
 /*
-5)Si una persona deposita una cierta cantidad de dinero en un banco durante 5 años o más, este le paga intereses a una
+2)Si una persona deposita una cierta cantidad de dinero en un banco durante 5 años o más, este le paga intereses a una
 tasa del 25% anual; mientras que, si lo hace por menos tiempo, la tasa de interés que le pagará será del 16% anual.
 Para una persona que desea depositar una cantidad de dinero durante una cantidad de años, mostrar la siguiente información:
 Monto Depositado: xxxx.xx 
