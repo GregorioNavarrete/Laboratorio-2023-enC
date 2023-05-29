@@ -35,7 +35,8 @@
   * [Ejercicio 21 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer21.c)
   * [Ejercicio 22 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer22.c)
   * [Ejercicio 24 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer24.c)
-  * [Ejercicio ]
+  *  [Ejercicio 25](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer25.c)
+  * [Ejercicio 25]()
 
 * [Primer Parcial 2022](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/PrimerParcial2022.jpeg)
 
