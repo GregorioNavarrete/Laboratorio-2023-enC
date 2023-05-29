@@ -36,7 +36,7 @@
   * [Ejercicio 22 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer22.c)
   * [Ejercicio 24 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer24.c)
   * [Ejercicio 25](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer25.c)
-  * [Ejercicio 27](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer27.c)
+  * [Ejercicio 27]esta incompleto(https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer27.c)
   * [Ejercicio ]()
   * [Ejercicio ]()
 
