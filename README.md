@@ -34,7 +34,7 @@
   * [Ejercicio 24 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer24.c)
   * [Ejercicio ]
 
-* Parcial 
+* [Primer Parcial 2022](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/PrimerParcial2022.jpeg)
 
 
 Una empresa otorga a sus empleados la posibilidad de solicitar 3 tipos de licencias. Al final de rada mes la empresa registra las N solicitudes de licencias hechas por sus empleados (cada empleada puede pedir sólo una licencia por mes). Por cada solicitud se especifica Código del Empleado (de 4 digitos) Código de Licencia (A. Bo C), Nimero de Semana en la que se realiza la solicitud (1 al 4), Cantidad de Dias de Licencia Solicitados y Sueldo. Se pide:
