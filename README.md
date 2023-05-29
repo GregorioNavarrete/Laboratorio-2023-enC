@@ -20,3 +20,38 @@
   * ejer2
 
 
+* Parcial 
+
+
+Una empresa otorga a sus empleados la posibilidad de solicitar 3 tipos de licencias. Al final de rada mes la empresa registra las N solicitudes de licencias hechas por sus empleados (cada empleada puede pedir sólo una licencia por mes). Por cada solicitud se especifica Código del Empleado (de 4 digitos) Código de Licencia (A. Bo C), Nimero de Semana en la que se realiza la solicitud (1 al 4), Cantidad de Dias de Licencia Solicitados y Sueldo. Se pide:
+
+a) Calcular y mostrar cual setmana par obtuvo la mayor cantidad total de dias de licencias solicitadas (30 ptos)
+
+b) Calcular y mostrar para cada empleado el sueldo a cobrar en el mes teniendo en cuenta el porcentaje de descuento que se aplica por tipo de licencia solicitada y el monto total que ahorra la empresa por todos los descuentos. Utilice una declaración switch para resolver la actividad.
++---------------------------------------------+
+|Tipo Licencia    |  Porcentaje de Descuento  |
++-----------------+---------------------------+
+|     A           |            13%            |
++-----------------+---------------------------+
+|     B           |            17%            |
++-----------------+---------------------------+
+|     C           |           21%             |
++-----------------+---------------------------+
+
+c) Para los códigos de empleados cuyo primer digito sea 3 mostrar el empleado con mayor y menor cantidad de días de licencia solicitados; si no existen los empleados que cumplan con las condiciones requeridas mastrar el mensaje correspondiente. (Ejem). Para el Código de Empleado 7465 el primer digito es 7) (40 ptos)
+
+A efectos de prueba puede utilizar los siguientes datos:
+
++--------------------------------------------------------------------------------------------------+
+|   Empleado   |  Codigo  de Licencia   |   Numer de Semana   |   Cantidad de Dias    |   Sueldo   |
++--------------+------------------------+---------------------+-----------------------+------------+
+|  3465        |          A             |           1         |         8             |  3456,78   |
++--------------+------------------------+---------------------+-----------------------+------------+
+|  9876        |          B             |          2          |          2            |  2456,23   |
++--------------+------------------------+---------------------+-----------------------+------------+
+| 5245         |          A             |          4          |         10            |  1456,23   |
++--------------+------------------------+---------------------+-----------------------+------------+
+|  3346        |          C             |           3         |            4          |  7567,89   |
++--------------+------------------------+---------------------+-----------------------+------------+
+|  2465        |          B             |           2         |           3           |  4569,21   |
++--------------------------------------------------------------------------------------------------+
