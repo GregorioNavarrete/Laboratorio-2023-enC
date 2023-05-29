@@ -10,15 +10,29 @@
 * Este repositorio responde al [Practico 1](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Pr%C3%A1ctico%201-2023.pdf
  "Pdf del practico2").
   * [Ejercicio 13 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP1-Ejer13.c)
-  * ejer2 
+
 
 
 * Este repositorio responde al [Practico 2](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/Trabajo%20Practico%202-2023.pdf
  "Pdf del practico2").
  
 
-  * ejer2
-
+  * [Ejercicio 2 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer2.c)
+  * [Ejercicio 4 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer4.c)
+  * [Ejercicio 6 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer6.c)
+  * [Ejercicio 7 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer7.c)
+  * [Ejercicio 9 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer9.c)
+  * [Ejercicio 10 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer10.c)
+  * [Ejercicio 11 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer11.c)
+  * [Ejercicio 13 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer13.c)
+  * [Ejercicio 14 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer14.c)
+  * [Ejercicio 15y16 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer15y16.c)
+  * [Ejercicio 18 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer18.c)
+  * [Ejercicio 20 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer20.c)
+  * [Ejercicio 21 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer21.c)
+  * [Ejercicio 22 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer22.c)
+  * [Ejercicio 24 ](https://github.com/GregorioNavarrete/Laboratorio-2023-enC/blob/main/TP2-Ejer24.c)
+  * [Ejercicio ]
 
 * Parcial 
 
