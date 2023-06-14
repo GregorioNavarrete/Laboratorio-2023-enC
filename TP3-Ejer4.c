@@ -4,9 +4,6 @@
 int main(int argc, char *argv[]) {
 	/*
 	Ejer 4
-	 Esta incompleto
-	 Tien un erro para asignar los Min y Max
-	
 	*/
 	
 	int Dim;
@@ -23,7 +20,7 @@ int main(int argc, char *argv[]) {
         suma=suma+precio[i];
         cont=cont+1;
         
-        if(b=1){
+        if(b==1){
         	//Si encuntro un nuevo minimo o maximo 
         	if(min>precio[i]){
         		min=precio[i];
@@ -32,18 +29,16 @@ int main(int argc, char *argv[]) {
 				max=precio[i];
 			}
 		}
-        if(b=0){
+        if(b==0){
         	//Este es el primer valor del arreglo
         	min=precio[i];
         	max=precio[i];
         	b=1;
 		}
-		
-        
-        
         i++;
     }
     
+	//Mostrar los valores del Vector    
     i=0;
     printf("\n Su ARREGLO ES : ");
     while (i < Dim){
@@ -62,7 +57,10 @@ int main(int argc, char *argv[]) {
     printf("\n El maximo es :");
     printf("%d",max);
     printf("\n El minimo es :");
-    printf("%d",min);    
-    
+    printf("%d",min);   
+	
+	
+
+
 	return 0;
 }
