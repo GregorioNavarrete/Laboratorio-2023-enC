@@ -16,6 +16,32 @@ int main(int argc, char *argv[]) {
 							{fila4}	
 					 	
 						 };
+
+
+
+       				////printf("\nCargar filas : ");
+		///scanf("%d",&dim);
+//int dim=3;
+    float e[3][3]={
+        		 					{123,1985,3700.85,4250.45},
+        							{250,1999,8500.99,9320.67},
+        							{340,2010,6500.23,6300.00},
+        							{126,2018,4200.12,4200.12}
+        						 };
+    //vamos a mostrar la matriz
+    int i=0,col=0;
+    for(i=0;i<3;i++){
+      for(col=0;i<3;col++){
+
+        //con el if voy a poder imprimir la mascara con sus debidos decimales cada elemntos de la matriz
+        if(col<3){
+          prinf("%.0f  | ",e[i][col]);
+        }else{
+          prinf("%.2f  | ",e[i][col]);
+        }
+      }
+      prinf("\n");
+    }
 		 */
 		
 		
