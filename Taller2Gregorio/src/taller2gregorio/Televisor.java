@@ -1,4 +1,4 @@
-package taller2gregorio;
+package javaapplication46;
 
 import java.util.Scanner;
 
@@ -171,7 +171,7 @@ public class Televisor {
     //cambiar el canal al valor especificado
     public void cambiarCanal(int nuevoCanal) {
         if (estado==true) {
-            if (nuevoCanal > 0) {
+            if (nuevoCanal > 0 && nuevoCanal < cantidadCanales) {
                 canalActivo = nuevoCanal % cantidadCanales; //modifico al canal ,usamos modulo
                 if (canalActivo == 0) {
                     canalActivo = cantidadCanales;//modifico al canal
@@ -181,7 +181,7 @@ public class Televisor {
                 System.out.println("el valor tiene que ser positivo");
             }
         } else {
-            System.out.println("El televisor esta apagado.");
+            System.out.println("El televisor esta apagado o canal ingresado supera la cantidad de canales disponibles");
         }
     }
     
