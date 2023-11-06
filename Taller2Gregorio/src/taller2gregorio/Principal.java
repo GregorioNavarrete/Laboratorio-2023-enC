@@ -1,10 +1,9 @@
-
-package taller2gregorio;
+package javaapplication46;
 
 import java.util.Scanner;
 
 
-public class Principal {
+public class JavaApplication46{
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
@@ -65,14 +64,19 @@ public class Principal {
 
         int cambiosDeCanal = 0;
 
-        while (true) {
+        int b=0;
+        //para que usuario cambie de canal tantas veces como quiera ,0 es la condicion de corte 
+        while (b==0) {
             System.out.print("Ingrese canal : ");
             int nuevoCanal = entrada.nextInt();//modifica el canal del Obj T1
+            
+            //PREGUNTAR SI VA ACAMBIAR CON NUMERO O INCREMENTAL ! 
+            //
 
             if (nuevoCanal == 0) {
                 System.out.println("Apagando el televisor...");
                 T1.cambiarEstado(); // Se apaga
-                break;
+                b=1;
             } else {
                 T1.cambiarCanal(nuevoCanal);
                 cambiosDeCanal++;
